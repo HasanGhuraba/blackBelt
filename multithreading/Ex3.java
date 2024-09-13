@@ -9,7 +9,7 @@ public class Ex3 implements Runnable {
     }
 
     public static void main(String[] args) {
-                Thread thread1 = new Thread(new Ex3());
+//                Thread thread1 = new Thread(new Ex3());
 
 //            Thread thread1 = new Thread(new MyThread3());
 //            Thread thread2 = new Thread(new MyThread4());

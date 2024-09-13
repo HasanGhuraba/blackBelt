@@ -13,8 +13,8 @@ public class ArrayListMethods5 {
         arrayList1.add("Kolya");
         arrayList1.add("Elena");
 
-        List<Integer> list1 = com.sun.tools.javac.util.List.of(3,8,13);
-        System.out.println(list1);
+//        List<Integer> list1 = com.sun.tools.javac.util.List.of(3,8,13);
+//        System.out.println(list1);
 //        list1.add(100);
 
 //        List <String> list2 = java.util.List.class.copyOf;
